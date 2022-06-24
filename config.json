@@ -1,0 +1,9 @@
+{
+	"ip":"donator3.falixnodes.net",
+	"port": 25710,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register afkbot1763 afkbot1763",
+	"login-cmd":"/login afkbot1763"
+}
